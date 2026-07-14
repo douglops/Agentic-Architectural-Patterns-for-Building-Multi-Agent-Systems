@@ -88,10 +88,11 @@ To ensure your systems are production-ready, we provide a practical framework fo
 </details>
 
 
-<details open> 
-  <summary><h2>Requirements for this book</summary>
-To be filled
-  </details>
+## Errata
+**Contributors- About the Authors Section(Paragraph 2):**
+<p>With executive roots as Head of Machine Learning at AWS and CTO for Analytics at IBM, Dr. Arsanjani has managed global teams of more than 6,000 practitioners. An IBM Master Inventor, his patent portfolio includes foundational contributions to service decomposition and context-aware routing.With executive roots as Head of ML at AWS and CTO for Analytics at IBM, Dr. Arsanjani has managed global teams of over 6,000 practitioners. An IBM Master Inventor, his patent portfolio includes foundational contributions to service decomposition and context-aware routing.</p>
+<p style="font-weight: bold;"><em>Should be</em></p>
+<p>With executive roots as Head of Machine Learning at AWS and CTO for Analytics at IBM, Dr. Arsanjani has managed global teams of more than 6,000practitioners. An IBM Master Inventor, his patent portfolio includes foundational contributions to service decomposition and context-aware routing.</p>
     
 
 
